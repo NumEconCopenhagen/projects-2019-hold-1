@@ -1,3 +1,2 @@
 # Dataproject
-
-Should contain a short introduction to your project, and show how to produce your results.
+The dataproject uses data from three different sources. First it analyzes danish corporate data. We show how to organize, filter and create an overview of the data. In addition, we perform certain calculations on the data set and show how to analyse distributional results using the data. From the second data source we use a API from the World bank to fetch data about the US economy primarily GDP. Lastly, we analyse data of Lego Star Wars showing how to interactively ascess the data and perform certain filtrations and calculations on the data. Lastly, we show how to merge the three datasets and perform regression analysis between the data to look for correlations and relations through the three data sets.  
